@@ -167,9 +167,10 @@ SNo | Topic | Link | Date Completed |
 14 | Does overloading work with Inheritance | [view](https://www.geeksforgeeks.org/does-overloading-work-with-inheritance/) | not done |
 15 | Polymorphism vs Inheritance | [view](https://www.geeksforgeeks.org/difference-between-inheritance-and-polymorphism/) | not done |
 16 | Generalization vs Aggregation vs Composition | [view](https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency/) | not done |
-17 | Friend Function / Class | homework | not done |
-18 | Local Class, nested Class | homework | not done | 
-19 | Simulating Final Class | homework | not done | 
+17 | Inheritance types with Coding Examples | [view](https://boldcoder.blogspot.com/2024/08/inheritance-in-java-with-examples.html) | not done |
+18 | Friend Function / Class | homework | not done |
+19 | Local Class, nested Class | homework | not done | 
+20 | Simulating Final Class | homework | not done | 
 
 ```Note: If class A inherits from class B, then what all are inherited from parent class and size calculation. Explore all possible combinations```
 
